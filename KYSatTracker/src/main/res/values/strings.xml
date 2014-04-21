@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kentucky Space</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="about_blurb">
+    This application tracks the orbits of all the satellites built in the state of Kentucky in real time.  This is a mobile extension of the KySat-2 Tracker built by a Computer Science senior design
+    team at the University of Kentucky.  The tracker used is an open source project called iSat built by Koansys LLC.  This application is under development so please check back for updates!
+    </string>
+
+    <string name="pref_previously_started"></string>
+    <!--Define Strings for Info Section    -->
+    <string name="AboutStartH"> Swipe to continue</string>
+    <string name="VT">Virtual Tour</string>
+
+    <string name="AboutH1">About Kentucky Space</string>
+    <string name="AboutB1">
+    Kentucky Space LLC is an ambitious, non-profit enterprise focused on R and D, educational, small entrepreneurial and commercial space solutions. \n\n Swipe to Continue.
+    </string>
+
+    <string name="AboutH2">
+    Kentucky Space and Partner Satellites in Orbit
+    </string>
+
+    <string name="k2about">
+     KySat-2 (Kentucky Satellite 2):\n
+     Launched 11/19/2013 from Wallops Island Virginia
+     Orbit 500 km by 40.6 degree inclination
+     KySat-2 is a 1U CubeSat fulfilling the original educational outreach and
+    technology demonstrator goals of KySat-1 while additionally testing a
+    attitude determination system that uses the satellites existing camera.
+    The spacecraft transmitted at 437.405 MHz and can be tracked by amateur
+    radio stations.
+    </string>
+    <string name ="tlogoabout">
+        T-LogoQube (Eagle-1):\n
+        Launched 11/20/2013 from Yasny Russia
+        Orbit 630 x 490 km at 96 degrees inclination
+        T-LogoQube is a technology demonstrator for PocketQube class satellites.
+    </string>
+    <string name = "eagle250satabout">
+        $50 Sat (Eagle-2):\n
+        Launched 11/20/2013 from Yasny Russia
+        Orbit 630 x 490 km at 96 degrees inclination
+        $50 Sat is a demonstrator to create a cost effective platform for
+        engineering and science students for developing real world skills. Data is
+        transmitted through FM morse code. $50 sat is a collaborative education
+        project between Professor Bob Twiggs, Morehead State University, and 3
+        amateur radio operators; Howie DeFelice AB2S, Michael Kirkhard KD8QBA, and
+        Stuart Robinson GW7HPW.
+    </string>
+    <string name = "cxbnabout">
+        CXBN:\n
+        Launched 9/17/2012 from Vandenberg AFB
+        Orbit 385 by 800 km at 60 degree inclination
+        CXBN is a 2U CubeSat built by Kentucky Space partner Morehead State
+        University to measure the cosmic X-Ray background of the universe in the
+        30 - 50 KeV range.
+    </string>
+
+
+
+    <string name="AboutB2">
+    The CubeLab® research platform was born out of a need for repeatable/affordable research on the International Space Station (ISS). Kentucky Space hardware designs fit a variety of platforms on suborbit vehicles, free-flying orbiting CubeSats and ISS platforms. By providing a standardized platform and open architecture for the experimental modules, we shrink the development cycle and cost for research and development, which leads to whole new products and markets.
+    </string>
+    <string name="AboutH3">
+    What can we learn by removing gravity from the equation?
+    </string>
+
+
+    <string name="AboutB3">
+    During their evolution over billions of years, the form and function of all organisms on Earth have adapted to the force of Earth’s gravity and these characteristics are encoded in their genes: up-down asymmetry, structural strength, size of force-producing elements and sensory systems. By eliminating gravity, cells, molecules, protein crystals, microbes, etc. behave in very different ways. This presents opportunities to explore new and potentially game-changing discoveries in areas such as human tissue regeneration, drug development and treatments for diseases such as cancer and other life threatening and chronic conditions, as well as energy and novel materials.
+    </string>
+
+
+    <string name="AboutH4">
+    Communications
+    </string>
+
+
+    <string name="AboutB4">
+    Kentucky Space has a robust network of terrestrial antennas, which includes a 21-meter space tracking antenna capable of both communicating and controlling spacecraft in orbit.
+    </string>
+
+    <string name="AboutB5">
+    Kentucky Space also has a fully certified ISS Operations Center where astronaut interaction with space hardware is monitored and controlled.
+    </string>
+
+    <string name="AboutH6">
+    Systems Engineering
+    </string>
+
+    <string name="AboutB6">
+    Kentucky Space provides comprehensive support for small missions from project concept through the design, development, flight qualification, launch and operation of spacecraft and payloads. Our engineering team is capable of mechanical, software and embedded systems design and analysis.
+    </string>
+
+    <string name="AboutB7">
+    We have clean room facilities for payload integration and a full suite of test equipment capable of EMI, vibration, environmental qualification, Antenna characterization and pre-flight qualifications.
+    </string>
+
+
+    <string name="AboutH8">
+    Exomedicine Research
+    </string>
+
+    <string name="AboutB8">
+    Together with the Exomedicine Institute, Kentucky Space develops and pursues microgravity research initiatives focused on medical solutions. \n\nClick For More Information! \n\nwww.exomedicine.com.
+    </string>
+    <string name="AboutH11">
+    Education
+    </string>
+    <string name="AboutH10">
+    STE2M SpaceLab
+    </string>
+    <string name="AboutB10">
+    Kentucky Space teaches a STEM program working with high schools across the country to design and conduct real science on the International Space Station (www.stemspacelab.com).
+    </string>
+    <string name = "END"> The End</string>
+    <string name ="ENDB">Please press Back to continue.</string>
+
+
+
+
+    <!--  Help Strings  -->
+    <string name="HelpTracker"> This button launches the Kentucky Satellite Tracker.  This tracker requires Mozilla Firefox to be installed. Please install Firefox before use</string>
+    <string name="HelpStatic"> This button launches a static tracker.  This tracker displays the current position of all Kentucky Satellites</string>
+    <string name="HelpInfo"> This button launches the Kentucky Space Information Page</string>
+    <string name="HelpCall"> This button calls Kentucky Space </string>
+    <string name="HelpEmail"> Click Here to email Kentucky Space</string>
+
+
+
+    <string name ="updates">
+
+    </string>
+    <string name ="eula">
+    By downloading any application from Kentucky Space, KSTC, Bluegrass Embedded Design, or Google™, installing or using this application or any portion thereof (“Application”), you agree to the following terms and conditions (the “Terms and Conditions”).
+ \n
+1. USE OF APPLICATION \n
+\na. The Company grants you the non-exclusive, non-transferable, limited right and license to install and use this Application solely and exclusively for your personal use.
+\nb. You may not use the Application in any manner that could damage, disable, overburden, or impair the Application (or servers or networks connected to the Application), nor may you use the Application in any manner that could interfere with any other party’s use and enjoyment of the Application (or servers or networks connected to the Application).
+\nc. You agree that you are solely responsible for (and that The Company has no responsibility to you or to any third party for) your use of the Application, any breach of your obligations under the Terms and Conditions, and for the consequences (including any loss or damage which The Company may suffer) of any such breach.
+\n
+2. PROPRIETARY RIGHTS \n
+You acknowledge that (a) the Application contains proprietary and confidential information that is protected by applicable intellectual property and other laws, and (b) The Company and/or third parties own all right, title and interest in and to the Application and content, excluding content provided by you, that may be presented or accessed through the Application, including without limitation all Intellectual Property Rights therein and thereto. “Intellectual Property Rights” means any and all rights existing from time to time under patent law, copyright law, trade secret law, trademark law, unfair competition law, and any and all other proprietary rights, and any and all applications, renewals, extensions and restorations thereof, now or hereafter in force and effect worldwide. You agree that you will not, and will not allow any third party to, (i) copy, sell, license, distribute, transfer, modify, adapt, translate, prepare derivative works from, decompile, reverse engineer, disassemble or otherwise attempt to derive source code from the Application or content that may be presented or accessed through the Application for any purpose, unless otherwise permitted, (ii) take any action to circumvent or defeat the security or content usage rules provided, deployed or enforced by any functionality (including without limitation digital rights management functionality) contained in the Application, (iii) use the Application to access, copy, transfer, transcode or retransmit content in violation of any law or third party rights, or (iv) remove, obscure, or alter The Company’s or any third partyâ€™s copyright notices, trademarks, or other proprietary rights notices affixed to or contained within or accessed in conjunction with or through the Application.
+\n
+\n3. THE COMPANY TERMS OF SERVICE AND PRIVACY POLICY
+\na. The Company’s Privacy Policy (located at http://www.google.com/privacypolicy.html) explains how The Company treats your information and protects your privacy when you use the Application. You agree to the use of your data in accordance with The Company’s privacy policies.
+\nb. The Application may contain features that are used in conjunction with The Company’s search and other services. Accordingly, your use of such features of the Application is also governed by The Company’s Terms of Service located at http://www.google.com/terms_of_service.html, The Company’s Privacy Policy located at http://www.google.com/privacypolicy.html, as well as any applicable The Company Service-specific Terms of Service and Privacy Policy, which may be updated from time to time and without notice.
+\n
+\n        4. U.S. GOVERNMENT RESTRICTED RIGHTS
+\nThis Application, related materials and documentation have been developed entirely with private funds. If the user of the Application is an agency, department, employee, or other entity of the United States Government, the use, duplication, reproduction, release, modification, disclosure, or transfer of the Application, including technical data or manuals, is restricted by the terms, conditions and covenants contained in these Terms and Conditions. In accordance with Federal Acquisition Regulation 12.212 for civilian agencies and Defense Federal Acquisition Regulation Supplement 227.7202 for military agencies, use of the Application is further restricted by these Terms and Conditions.
+\n
+\n5. EXPORT RESTRICTIONS
+\nThe Application may be subject to export controls or restrictions by the United States or other countries or territories. You agree to comply with all applicable U.S. and international export laws and regulations. These laws include restrictions on destinations, end users, and end use.
+\n
+\n6. TERMINATION
+\nThese Terms and Conditions will continue to apply until terminated by either you or The Company as set forth below. You may terminate these Terms and Conditions at any time by permanently deleting the Application from your mobile device in its entirety. Your rights automatically and immediately terminate without notice from The Company or any Third Party if you fail to comply with any provision of these Terms and Conditions. In such event, you must immediately delete the Application.
+\n
+\n7. INDEMNITY
+\nTo the maximum extent permitted by law, you agree to defend, indemnify and hold harmless The Company, its affiliates and their respective directors, officers, employees and agents from and against any and all claims, actions, suits or proceedings, as well as any and all losses, liabilities, damages, costs and expenses (including reasonable attorneys fees) arising out of or accruing from your use of the Application, including your downloading, installation, or use of the Application, or your violation of these Terms and Conditions.
+\n
+\n8. DISCLAIMER OF WARRANTIES
+\na. YOU EXPRESSLY UNDERSTAND AND AGREE THAT YOUR USE OF THE APPLICATION IS AT YOUR SOLE DISCRETION AND RISK AND THAT THE APPLICATION IS PROVIDED AS IS AND AS AVAILABLE WITHOUT WARRANTY OF ANY KIND.
+\nb. YOU ARE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR MOBILE DEVICE, OR OTHER DEVICE, OR LOSS OF DATA THAT RESULTS FROM SUCH USE.
+\nc. THE COMPANY FURTHER EXPRESSLY DISCLAIMS ALL WARRANTIES AND CONDITIONS OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT, WITH RESPECT TO THE APPLICATION.
+\nd. THE APPLICATION IS NOT INTENDED FOR USE IN THE OPERATION OF NUCLEAR FACILITIES, LIFE SUPPORT SYSTEMS, EMERGENCY COMMUNICATIONS, AIRCRAFT NAVIGATION OR COMMUNICATION SYSTEMS, AIR TRAFFIC CONTROL SYSTEMS, OR ANY OTHER ACTIVITIES IN WHICH THE FAILURE OF THE APPLICATION COULD LEAD TO DEATH, PERSONAL INJURY, OR SEVERE PHYSICAL OR ENVIRONMENTAL DAMAGE.
+\n
+\n9. LIMITATION OF LIABILITY
+\nYOU EXPRESSLY UNDERSTAND AND AGREE THAT THE COMPANY, ITS SUBSIDIARIES AND AFFILIATES, AND ITS LICENSORS ARE NOT LIABLE TO YOU UNDER ANY THEORY OF LIABILITY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL CONSEQUENTIAL OR EXEMPLARY DAMAGES THAT MAY BE INCURRED BY YOU THROUGH YOUR USE OF THE APPLICATION, INCLUDING ANY LOSS OF DATA OR DAMAGE TO YOUR MOBILE DEVICE, WHETHER OR NOT THE COMPANY OR ITS REPRESENTATIVES HAVE BEEN ADVISED OF OR SHOULD HAVE BEEN AWARE OF THE POSSIBILITY OF ANY SUCH LOSSES ARISING.
+\n
+
+
+\n10. MISCELLANEOUS
+\na. These Terms and Conditions constitute the entire Agreement between you and The Company relating to the Application and govern your use of the Application, and completely replace any prior or contemporaneous agreements between you and The Company regarding the Application.
+\nb. The failure of The Company to exercise or enforce any right or provision of these Terms and Conditions does not constitute a waiver of such right or provision, which will still be available to The Company.
+\nc. If any court of law, having the jurisdiction to decide on this matter, rules that any provision of these Terms and Conditions is invalid, then that provision will be removed from the Terms and Conditions without affecting the rest of the Terms and Conditions. The remaining provisions of these Terms and Conditions will continue to be valid and enforceable.
+\nd. The rights granted in these Terms and Conditions may not be assigned or transferred by either you or The Company without the prior written approval of the other party. Neither you nor The Company are permitted to delegate their responsibilities or obligations under these Terms and Conditions without the prior written approval of the other party.
+\ne. These Terms and Conditions and your relationship with The Company under these Terms and Conditions will be governed by the laws of the State of California without regard to its conflict of laws provisions. You and The Company agree to submit to the exclusive jurisdiction of the courts located within the county of Santa Clara, California to resolve any legal matter arising from these Terms and Conditions. Notwithstanding this, you agree that The Company will still be allowed to apply for injunctive remedies (or an equivalent type of urgent legal relief) in any jurisdiction.
+\n
+
+ </string>
+</resources>
